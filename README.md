@@ -9,8 +9,10 @@
 https://github.com/googleapis/google-api-python-client#Installation
 
 * If you don't have an API key, please create one.Read the guide as follows:
- *You need an 'API key', OAuth Token is not required.* 
-https://developers.google.com/youtube/v3/getting-started
+
+ *You need 'API key', 'OAuth Token' is not required.* 
+
+ https://developers.google.com/youtube/v3/getting-started
 
 ### Get Channel Video details.
 
