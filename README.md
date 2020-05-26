@@ -4,12 +4,16 @@
 
 ## Before you quick start,
 
-* Please setup 'Google API Client' for python
+* Please setup 'Google API Client' for python.
 
 https://github.com/googleapis/google-api-python-client#Installation
 
+* If you don't have an API key, please create one.Read the guide as follows:
+ *You need an 'API key', OAuth Token is not required.* 
+https://developers.google.com/youtube/v3/getting-started
+
 ### Get Channel Video details.
 
-* this sample show how to get a file including video details from using a channel's playlist ID.
+* This sample will get a file including video details from using a channel's playlist ID.
 
 `python3 get_channel_videos.py -c 'Channel Playlist ID' -i 'Your API-Key' `
