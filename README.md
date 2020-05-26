@@ -4,15 +4,10 @@
 
 ## Before you quick start,
 
-* Please setup 'Google API Client' for python.
+* Please setup 'Google API Client' [*here*](https://github.com/googleapis/google-api-python-client#Installation).
 
-https://github.com/googleapis/google-api-python-client#Installation
-
-* If you don't have an API key, please create one.Read the guide as follows:
-
- *You need 'API key', 'OAuth Token' is not required.* 
-
- https://developers.google.com/youtube/v3/getting-started
+* If you don't have an API key, please create one.Read the guide [*here*](https://developers.google.com/youtube/v3/getting-started).
+* **You need 'API key', 'OAuth Token' is not required.**
 
 ### Get Channel Video details.
 
