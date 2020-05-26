@@ -1,6 +1,6 @@
-# API Sample
+## What'S this?
 
-* This repository is my Sandboxxx) for YouTube Data API(v3) python3 samples.
+* This repository is a Sandboxxx) for YouTube Data API(v3) python3 samples.
 
 ## Before you quick start,
 
