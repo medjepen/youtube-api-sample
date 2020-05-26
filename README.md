@@ -1,5 +1,6 @@
-# youtube-api-sample
-youtube data api (v3) samples in python3
+# API Sample
+
+* This repository is my Sandboxxx) for YouTube Data API(v3) python3 samples.
 
 ## Before you quick start,
 
